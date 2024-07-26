@@ -11,6 +11,5 @@ I am **NOT** the original creator of this script i just added a few options to k
 # Credits:
 * SilentSalo for og script for kiddions 
 * Platindesk for his original code port to yim
-in case anyone have any problem with it please talk with me at discord
-mossesinthebox
-Enjoy
+> in case anyone have any problem with it please talk with me at discord mossesinthebox
+## Enjoy
