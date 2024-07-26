@@ -6,7 +6,7 @@
 5. Change Player Rank to any number available
 
 # Just To be clear
-I am **NOT** the original creator of this script i just added a few options to keep the menu alive for credit to the OG Yim port developer (Platindesk) and OG Script developer (SilentSalo)
+I am **NOT** the original creator of this script i just added a few options to keep the script alive for credit to the OG Yim port developer (Platindesk) and OG Script developer (SilentSalo)
 
 # Credits:
 SilentSalo 
